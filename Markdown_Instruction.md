@@ -8,6 +8,7 @@
 
 * *git branch* - команда, отображает список существующих веток;
 * *git branch branch_name* - команда, создающая ветку;
+* *git branch branch name* - contradicting change for test merge
 
 ## Выделение текста
 
